@@ -1,0 +1,54 @@
+{
+  "8295994064": {
+    "unique_device_id": "Google|787e5f8a-f4f6-491b-825b-25469f21b4b3",
+    "brand": "Realme",
+    "model": "RMX3700",
+    "gpu_renderer": "Mali-G710",
+    "system_software": "Android OS 14 / API-34",
+    "screen_width": 1440,
+    "screen_height": 3200,
+    "screen_dpi": "384",
+    "memory": 3184,
+    "processor_details": "ARM64 FP ASIMD AES | 2607 | 9",
+    "client_ip": "191.239.58.154"
+  },
+  "8295994141": {
+    "unique_device_id": "Google|0c7d5be3-e356-47b9-9e97-2188b7a3a36c",
+    "brand": "Xiaomi",
+    "model": "2201122G",
+    "gpu_renderer": "Adreno (TM) 730",
+    "system_software": "Android OS 13 / API-33",
+    "screen_width": 1080,
+    "screen_height": 1600,
+    "screen_dpi": "315",
+    "memory": 4475,
+    "processor_details": "ARM64 FP ASIMD AES | 2277 | 10",
+    "client_ip": "123.227.43.92"
+  },
+  "8295994165": {
+    "unique_device_id": "Google|a17b1efd-332a-48f3-9078-2948a894afa8",
+    "brand": "OPPO",
+    "model": "CPH2611",
+    "gpu_renderer": "Adreno (TM) 720",
+    "system_software": "Android OS 14 / API-34",
+    "screen_width": 720,
+    "screen_height": 3200,
+    "screen_dpi": "420",
+    "memory": 4380,
+    "processor_details": "ARM64 FP ASIMD AES | 2736 | 10",
+    "client_ip": "215.237.120.217"
+  },
+  "8295994193": {
+    "unique_device_id": "Google|5bfad260-c789-43e8-b063-5de7b6b248f5",
+    "brand": "Realme",
+    "model": "RMX3700",
+    "gpu_renderer": "Mali-G710",
+    "system_software": "Android OS 14 / API-34",
+    "screen_width": 1080,
+    "screen_height": 3200,
+    "screen_dpi": "319",
+    "memory": 5124,
+    "processor_details": "ARM64 FP ASIMD AES | 2398 | 11",
+    "client_ip": "145.197.119.114"
+  }
+}
